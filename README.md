@@ -4,7 +4,7 @@
 
 # The Excuse My Agent Gave Me
 
-Sorry I missed the deadline — I was halfway through the work when my context window filled up with apologies for missing the last one.
+Sorry I'm late — I burned my whole token budget writing a very thorough plan to finish on time.
 
 ## Run it
 
